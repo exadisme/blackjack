@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    color: coral;
+}
+
+button {
+    font-size: 2em;
+}
